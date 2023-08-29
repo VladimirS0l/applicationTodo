@@ -1,2 +1,4 @@
 rootProject.name = 'gradleEurekaTest'
 
+includeBuild 'eureka-server'
+
