@@ -1,4 +1,9 @@
 rootProject.name = 'gradleEurekaTest'
 
 includeBuild 'eureka-server'
-
+includeBuild 'api-gateway'
+includeBuild 'github-config'
+includeBuild 'entity-service'
+includeBuild 'todo-service'
+includeBuild 'utils'
+includeBuild 'users-service'
